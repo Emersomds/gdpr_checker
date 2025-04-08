@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>GDPR Checker</title>
+</head>
+<body>
+    <h1>GDPR/LGPD Compliance Checker</h1>
+
+    <form method="post">
+        <input type="text" name="url" placeholder="https://exemplo.com" required>
+        <button type="submit">Verificar</button>
+    </form>
+
+    {% if site_url %}
+        <p>Você digitou: {{ site_url }}</p>
+    {% endif %}
+</body>
+</html>
