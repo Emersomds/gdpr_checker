@@ -2,9 +2,9 @@
 
 Uma ferramenta web que audita sites automaticamente em busca de violações à LGPD (Brasil) e GDPR (Europa).
 
-<img src="images/imagem1.png" alt="Imagem 1" width="400" />
-<img src="images/imagem2.png" alt="Imagem 2" width="400" />
-<img src="images/imagem3.png" alt="Imagem 3" width="400" />
+<img src="images/imagen1.png" alt="Imagem 1" width="400" />
+<img src="images/imagen2.png" alt="Imagem 2" width="400" />
+<img src="images/imagen3.png" alt="Imagem 3" width="400" />
 
 
 ## 🔍 Funcionalidades
