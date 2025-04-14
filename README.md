@@ -53,6 +53,8 @@ cd gdpr_checker
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate   # Windows
+# Desativar o ambiante virtual
+deactivate
 
 # Instale as dependências
 pip install -r requirements.txt
